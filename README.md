@@ -1,5 +1,3 @@
-que legal
-
 
 NCL - New Configuration Language
 ================================
